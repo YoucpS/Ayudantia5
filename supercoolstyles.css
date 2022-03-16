@@ -1,0 +1,24 @@
+ul{
+    list-style:none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 3em;
+}
+header{
+    background-color: darkslategrey;
+    height: 3em;
+}
+header a{
+    color: azure;
+    text-decoration: none;
+    font-size: 20px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0; }
